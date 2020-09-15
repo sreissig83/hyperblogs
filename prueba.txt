@@ -1,6 +1,14 @@
 hola soy seba
+<<<<<<< HEAD
 tengo 36 años
 soy de formosa
 no tengo hijos
 no estoy casado
 tengo un porsche
+=======
+tengo 36 años y en octubre cumplo 37
+soy de formosa
+tengo 2 hijos
+estoy juntado
+tengo un toyota
+>>>>>>> produccion
