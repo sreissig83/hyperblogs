@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 Prueba 1
 
 prueba 3
 
 prueba 6
+=======
+
+Prueba 2
+
+Prueba 4
+
+
+Prueba7
+>>>>>>> produccion
